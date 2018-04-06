@@ -1,7 +1,7 @@
 import sys
 import os
 import pickle
-import shelve
+# import shelve -- for future use
 import progressbar
 import time
 
